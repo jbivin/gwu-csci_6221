@@ -26,4 +26,4 @@ That should be enough to get you started.
 Enjoy!
 Tyler Jones
 Ayush Dwivedi
-Jeffrey Bivin
+Jeff Bivin
