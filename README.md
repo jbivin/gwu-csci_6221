@@ -28,4 +28,4 @@ Tyler Jones
 Ayush Dwivedi
 Jeff Bivin
 
-The presentation of this project is available at https://drive.google.com/file/d/1kxHGl4aGWMZGP_5-WZXjxwjL_o0PtslA/view?usp=sharing
+The presentation and video demo of this project are available at https://drive.google.com/file/d/1hZBZPw_o6i8j2qFUzdctCcLBb8M8u129/view?usp=sharing
